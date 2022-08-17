@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AbudantNum {
+public class AbundantNum {
 
   static boolean isAbundantNum(int num) {
     int sum = 0;
